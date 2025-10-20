@@ -334,7 +334,10 @@ products Section
   padding: 40px;  align-items: center;
 align-items: center;  
 margin: 0%;
-display: flex
+display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
 
 }
 .section-title {
@@ -353,10 +356,12 @@ display: flex
   text-align: center;
   box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
   transition: all 0.3s ease;
-    padding: 5px;
+    padding: 4px;
 padding-bottom: 0px;
-margin-left: 4px;
-margin-right: 4px;
+
+
+flex: 1 1 300px;
+  max-width: 200px;
 }
 .product-div{
   height: 80px;

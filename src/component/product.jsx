@@ -18,9 +18,9 @@ export default function Products() {
           </p>
           <p className="product-price">
             Price: <span>₦350,000</span>  <br />
-            <button className="btn-buy mb-4 ">BUY NOW </button>
-
           </p>
+                      <button className="btn-buy mb-4 ">BUY NOW </button>
+
         </div>
         <div className="product-card col-3 ">
           <img
@@ -34,9 +34,10 @@ export default function Products() {
           </p>
           <p className="product-price">
             Price: <span>₦210,000</span>  <br />
-            <button className="btn-buy mb-4 ">BUY NOW </button>
 
           </p>
+                      <button className="btn-buy mb-4 ">BUY NOW </button>
+
         </div>
         <div className="product-card col-3 ">
           <img
@@ -50,9 +51,10 @@ export default function Products() {
           </p>
           <p className="product-price">
             Price: <span>₦195,000</span>  <br />
-            <button className="btn-buy mb-4 ">BUY NOW </button>
 
           </p>
+                      <button className="btn-buy mb-4 ">BUY NOW </button>
+
         </div>
         <div className="product-card col-3  ">
           <img
@@ -67,8 +69,9 @@ export default function Products() {
           <p className="product-price">
             Price: <span>₦350,000</span>
             <br />
-            <button className="btn-buy mb-4 ">BUY NOW </button>
           </p>
+                      <button className="btn-buy mb-4 ">BUY NOW </button>
+
         </div>
       </div>
       <a href="/moreproducts">
